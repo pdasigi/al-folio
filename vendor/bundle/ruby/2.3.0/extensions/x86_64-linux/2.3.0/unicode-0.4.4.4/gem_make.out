@@ -1,0 +1,17 @@
+current directory: /usr0/home/pdasigi/workspace/al-folio/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.4/ext/unicode
+/usr/bin/ruby2.3 -r ./siteconf20170705-5874-lsvcuk.rb extconf.rb
+creating Makefile
+
+current directory: /usr0/home/pdasigi/workspace/al-folio/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.4/ext/unicode
+make "DESTDIR=" clean
+
+current directory: /usr0/home/pdasigi/workspace/al-folio/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.4/ext/unicode
+make "DESTDIR="
+compiling unicode.c
+compiling ustring.c
+compiling wstring.c
+linking shared-object unicode/unicode_native.so
+
+current directory: /usr0/home/pdasigi/workspace/al-folio/vendor/bundle/ruby/2.3.0/gems/unicode-0.4.4.4/ext/unicode
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unicode_native.so ./.gem.20170705-5874-13ybv4w/unicode
